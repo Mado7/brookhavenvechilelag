@@ -1,0 +1,165 @@
+game:GetService("StarterGui"):SetCore("SendNotification",{
+
+Title = "Brookhaven Lag By Mado#6885",
+
+Text = "If u have Problem With the Script Pld dm Mado#6885", 
+
+Duration = 30 
+
+})
+
+wait(1)
+
+game:GetService("StarterGui"):SetCore("SendNotification",{
+
+Title = "This Script May 
+
+Lag Your Phone a little bit",
+
+Text = "Vehicle Lag Enabled", 
+
+Duration = 30 
+
+})
+
+wait(1)
+
+game:GetService("StarterGui"):SetCore("SendNotification",{
+
+Title = "Warning",
+
+Text = "If u want to stop the Lag Please Rejoin", 
+
+Duration = 30 
+
+})
+
+wait(1)
+
+_G.loop = true 
+
+while _G.loop == true do
+
+wait(0.1)
+
+local args = {
+
+    [1] = "SkateBoard"
+
+}
+
+game:GetService("ReplicatedStorage").Ree:FindFirstChild("28NoMoto28rVehicle28s"):FireServer(unpack(args))
+
+wait(0.1)
+
+local args = {
+
+    [1] = "Scooter"
+
+}
+
+game:GetService("ReplicatedStorage").Ree:FindFirstChild("28NoMoto28rVehicle28s"):FireServer(unpack(args))
+
+wait(0.1)
+
+local args = {
+
+    [1] = "WheelChair"
+
+}
+
+game:GetService("ReplicatedStorage").Ree:FindFirstChild("28NoMoto28rVehicle28s"):FireServer(unpack(args))
+
+wait(0.1)
+
+local args = {
+
+    [1] = "SkateBoard"
+
+}
+
+game:GetService("ReplicatedStorage").Ree:FindFirstChild("28NoMoto28rVehicle28s"):FireServer(unpack(args))
+
+wait(0.1)
+
+local args = {
+
+    [1] = "Scooter"
+
+}
+
+game:GetService("ReplicatedStorage").Ree:FindFirstChild("28NoMoto28rVehicle28s"):FireServer(unpack(args))
+
+wait(0.1)
+
+local args = {
+
+    [1] = "WheelChair"
+
+}
+
+game:GetService("ReplicatedStorage").Ree:FindFirstChild("28NoMoto28rVehicle28s"):FireServer(unpack(args))
+
+wait(0.1)
+
+local args = {
+
+    [1] = "Bike"
+
+}
+
+game:GetService("ReplicatedStorage").Ree:FindFirstChild("28NoMoto28rVehicle28s"):FireServer(unpack(args))
+
+wait(0.1)
+
+local args = {
+
+    [1] = "GirlBike"
+
+}
+
+game:GetService("ReplicatedStorage").Ree:FindFirstChild("28NoMoto28rVehicle28s"):FireServer(unpack(args))
+
+local args = {
+
+    [1] = "wear",
+
+    [2] = 341707578
+
+}
+
+game:GetService("ReplicatedStorage").X11.X22.X33:FindFirstChild("28Updat28eAvata28r"):FireServer(unpack(args))
+
+local args = {
+
+    [1] = "outfit",
+
+    [2] = "8017905624",
+
+    [3] = "8017903383"
+
+}
+
+game:GetService("ReplicatedStorage").X11.X22.X33:FindFirstChild("28Clothe28s"):FireServer(unpack(args))
+
+local args = {
+
+    [1] = "wear",
+
+    [2] = 2081880590
+
+}
+
+game:GetService("ReplicatedStorage").X11.X22.X33:FindFirstChild("28Updat28eAvata28r"):FireServer(unpack(args))
+
+local args = {
+
+    [1] = "wear",
+
+    [2] = 3836146922
+
+}
+
+game:GetService("ReplicatedStorage").X11.X22.X33:FindFirstChild("28Updat28eAvata28r"):FireServer(unpack(args))
+
+end
